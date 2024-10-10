@@ -32,4 +32,4 @@ everything here is in 3d
 
 if you zoom out too much you end up zooming into "another spectrum", I never quite understood that, just found it neat.
 
-probably one of the coolest thing I've built, its just fun to watch
+probably one of the coolest pieces of software I've built, its just fun to watch
