@@ -1,4 +1,4 @@
-super simple to get it working
+# it is super simple to get it working
 
 python3 -m venv venv
 
