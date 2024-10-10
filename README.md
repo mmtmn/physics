@@ -1,3 +1,7 @@
+# about this repository
+
+in late 2023, during the holidays, I tried to join quantum mechanics and gravity. The results were pretty fun! 
+
 # it is super simple to get it working
 
 python3 -m venv venv
